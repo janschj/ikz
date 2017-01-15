@@ -69,42 +69,44 @@ Allerede i 1933 efter Hitlers overtagelse af magten, lod SA oprette ca. 50 konce
 
 ####AugustdageneAugustdagene, også kaldet Augustoprøret betegner de uroligheder, der fandt sted i Danmark under 2. verdenskrig i august 1943 som protest mod regeringens samarbejdspolitik med den tyske besættelsesmagt.Oprøret begyndte i Odense i form af strejker, demonstrationer og uro i gaderne og spredte sig herfra til bl.a. København, Esbjerg, Aalborg og Århus. Som følge af oprøret og den uenighed, der var mellem partier om samarbejdspolitikken, trådte samlingsregeringen tilbage d. 29. august 1943.		
 
-------
 
-### Aktuel værktøjskasse
+
+###Aktuel værktøjskasse
 
 <p><img src="./foto/jan.jpg" align="right" height="200" width="250"></p>
 <p><img src="./foto/jan.jpg" align="left" height="200" width="250"></p>
 
-### image inline
+dette er en prv
+
+###image inline
 
 [![screenshot](./foto/thumb.jpg)](./foto/jan.jpg "image text")
 
 <div id="image1">
-<img src="jan.jpg" border="0" alt="one" />
+<img src="./foto/jan.jpg" border="0" alt="one" />
 </div>
 
-### image iframe
+###image iframe
 
 <p>
-<a href="./foto/jan.jpg" target="_blank"><img src="./thumb.jpg"></a>
+<a href="./foto/jan.jpg" target="_blank"><img src="./foto/thumb.jpg"></a>
 </p>
 
 [![alt text][2]][1] 
-[1]: ./jan.jpg
-[2]: ./thumb.jpg (hover text) 
+[1]: ./foto/jan.jpg
+[2]: ./foto/thumb.jpg (hover text) 
 
 ------
 
 
 
-### Video inline html youtube 
+###Video inline html youtube 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YIvCmaQwcSg/0.jpg)](./video/video1.html)
 
 
 
-### Video inline youtube 
+###Video inline youtube 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YIvCmaQwcSg/0.jpg)](http://www.youtube.com/watch?v=YIvCmaQwcSg "Video Title")
 
@@ -112,7 +114,7 @@ Allerede i 1933 efter Hitlers overtagelse af magten, lod SA oprette ca. 50 konce
 
 ------
 
-### Video inline
+###Video inline
 
 
 
@@ -120,7 +122,7 @@ Allerede i 1933 efter Hitlers overtagelse af magten, lod SA oprette ca. 50 konce
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YIvCmaQwcSg/0.jpg)](./md_far_lejr.mp4 "Video Title")
 
 
-### Video inside iframe tag
+###Video inside iframe tag
 
 <p>
 <iframe width="420" height="345"
