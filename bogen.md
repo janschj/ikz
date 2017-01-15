@@ -73,12 +73,12 @@ Allerede i 1933 efter Hitlers overtagelse af magten, lod SA oprette ca. 50 konce
 
 ### Aktuel værktøjskasse
 
-<p><img src="./jan.jpg" align="right" height="200" width="250"></p>
-<p><img src="./jan.jpg" align="left" height="200" width="250"></p>
+<p><img src="./foto/jan.jpg" align="right" height="200" width="250"></p>
+<p><img src="./foto/jan.jpg" align="left" height="200" width="250"></p>
 
 ### image inline
 
-[![screenshot](./thumb.jpg)](./jan.jpg "image text")
+[![screenshot](./foto/thumb.jpg)](./foto/jan.jpg "image text")
 
 <div id="image1">
 <img src="jan.jpg" border="0" alt="one" />
@@ -87,7 +87,7 @@ Allerede i 1933 efter Hitlers overtagelse af magten, lod SA oprette ca. 50 konce
 ### image iframe
 
 <p>
-<a href="./jan.jpg" target="_blank"><img src="./thumb.jpg"></a>
+<a href="./foto/jan.jpg" target="_blank"><img src="./thumb.jpg"></a>
 </p>
 
 [![alt text][2]][1] 
