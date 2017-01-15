@@ -96,6 +96,8 @@ Allerede i 1933 efter Hitlers overtagelse af magten, lod SA oprette ca. 50 konce
 
 ------
 
+### Video inline youtube 
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YIvCmaQwcSg/0.jpg)](http://www.youtube.com/watch?v=YIvCmaQwcSg "Video Title")
 
 
