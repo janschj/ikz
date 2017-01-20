@@ -1,0 +1,79 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+body {
+  display: block;
+  margin: 5pt;
+  page-break-before: always;
+  text-align: justify;
+}
+h1, h2, h3 {
+  font-weight: bold;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+}
+p {
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+}
+a {
+  color: inherit;
+  text-decoration: inherit;
+  cursor: default;
+}
+a[href] {
+  color: blue;
+  text-decoration: none;
+  cursor: pointer;
+}
+a[href]:hover {
+  color: red;
+}
+.center {
+  text-align: center;
+}
+.cover {
+  height: 100%;
+}
+
+p.kilde {
+    font-style: normal;
+    font-size: 12px;
+}
+p.writer {
+    font-style: normal;
+    font-size: 14px;
+}
+
+: 0 auto;
+}
+/* pupup images */
+#thumbwrap {
+	margin:75px auto;
+	width:100px; height:auto;
+}
+.thumb {
+	float:left; /* must be floated for same cross browser position of larger image */
+	position:relative;
+	margin:3px;
+}
+.thumb img { 
+	border:1px solid #000;
+	vertical-align:bottom;
+}
+.thumb:hover {
+	border:0; /* IE6 needs this to show large image */
+	z-index:1;
+}
+.thumb span { 
+	position:absolute;
+	visibility:hidden;
+}
+.thumb:hover span { 
+	visibility:visible;
+	top:37px; left:37px; left:37px;  
+}
+
+
