@@ -1,0 +1,46 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style type="text/css">
+/* pupup images */
+#thumbwrap {
+	margin:75px auto;
+	width:100px; height:auto;
+}
+.thumb {
+	float:left; /* must be floated for same cross browser position of larger image */
+	position:relative;
+	margin:3px;
+}
+.thumb img { 
+	border:1px solid #000;
+	vertical-align:bottom;
+}
+.thumb:hover {
+	border:0; /* IE6 needs this to show large image */
+	z-index:1;
+}
+.thumb span { 
+	position:absolute;
+	visibility:hidden;
+}
+.thumb:hover span { 
+	visibility:visible;
+	top:37px; left:37px; left:37px;  
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<link href="../styles/stylesheet.css" rel="stylesheet" type="text/css" />
+<title>I Koncentrationslejr</title>
+</head>
+
+
+<body>
+
+
+	<div id="thumbwrap">
+		<a class="thumb" href="#"><img src="../billeder/brevknap.png"
+			alt="" width="50" height="50" /><span><img
+				src="../billeder/brevsd.jpeg" alt="" style="margin-right: 20%;" /></span></a>
+	</div>
+</body>
+</html>
